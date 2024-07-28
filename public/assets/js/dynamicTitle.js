@@ -11,10 +11,10 @@ window.onload = function() {
     function toggle(isPageActive) {
         if (isPageActive) {
             document.title = pageTitle
-            favicon.href = './assets/images/dp_male.svg'
+            favicon.href = './assets/images/dp-sibi.jpg'
         } else {
             document.title = attentionMessage
-            favicon.href = './assets/images/dp_male.svg'
+            favicon.href = './assets/images/dp-sibi.jpg'
         }
     }
 }
