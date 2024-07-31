@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-sibi-sebastian",
+  "version": "1.0.0",
+  "description": "hosting my portfolio web page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sibi-Sebastian/portfolio-sibi-sebastian.git"
+  },
+  "keywords": [
+    "portfolio",
+    "hosting",
+    "website"
+  ],
+  "author": "Sibi Sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sibi-Sebastian/portfolio-sibi-sebastian/issues"
+  },
+  "homepage": "https://github.com/Sibi-Sebastian/portfolio-sibi-sebastian#readme"
+}
