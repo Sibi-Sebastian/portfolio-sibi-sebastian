@@ -4,11 +4,17 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [{
+        title: "AI and Machine Learning Intern",
+        cardImage: "assets/images/experience-page/kalsoft.jpeg",
+        place: "Kalsoft Solutions Pvt Ltd, Bangalore",
+        time: "(Aug, 2024 - Nov, 2024)",
+        desp: "<li>Integration of AWS Bedrock into our Sales Desk, adding intelligent capabilities to improve CRM functionalities. </li> <li>Development of Machine Learning Models for sales prediction, which enhanced performance and operational accuracy across the platform.</li > <li>Quasar Framework Migration: Assisted in migrating the CRM interface to the Quasar framework, modernizing the user experience. </li><li>Additional Projects: Contributed to tasks such as Excel parsing to JSON conversion and implementing JFrog image scanning ensure product security and data handling efficiency.</li > ",
+    }, {
         title: "Software Engneer Intern",
         cardImage: "assets/images/experience-page/chipsy.jpg",
-        place: "Chipsy",
+        place: "Chipsy IT Services, Udupi",
         time: "(May, 2024 - june, 2024)",
-        desp: "<li>Collaborated with Flutter Developers on Mobile App Projects and Leveraged the Flutter framework (Dart Programming) to build mobile Applications</li> <li>Employed mobile app development concepts and version control practices.</li> <li>Successfully integrated APIs to enhance app functionality.</li > ",
+        desp: "<li>Collaborated with Flutter Developers on Mobile App Projects and Leveraged the Flutter framework (Dart Programming) to build mobile Applications.</li> <li>Employed mobile app development concepts and version control practices.</li> <li>Successfully integrated APIs to enhance app functionality.</li > ",
     },
 
 ];
